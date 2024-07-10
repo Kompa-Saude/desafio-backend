@@ -13,7 +13,7 @@ Implementar uma API RESTful para gerenciar cadastros de pacientes com funcionali
 - **Linguagem:** Python
 - **ORM:** SQLAlchemy
 - **Banco de Dados:** PostgreSQL
-- **Framework:** Flask (ou FastAPI)
+- **Framework:** Flask
 
 ##### Funcionalidades da API:
 1. **Listar Pacientes**
